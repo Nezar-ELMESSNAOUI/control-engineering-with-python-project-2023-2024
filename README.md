@@ -6,13 +6,13 @@
 
 Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bIvdzbg5PDoQSr7ugv32wQtcKUiNaBiPt2RSzHwNRtA/edit?usp=sharing)
 
-Your team: group number ❔
+Your team: group number 10
 
-  - Student 1: ❔ (Nezar + EL MESSNAOUI + `@Nezar-ELMESSNAOUI`)
+  - Student 1: Nezar EL MESSNAOUI `@Nezar-ELMESSNAOUI`
 
-  - Student 2: ❔ (Badr + CHRAK + `@badrchrak`)
+  - Student 2: Badr CHRAK `@badrchrak`
   
-  - Student 3: ❔ (Marouane + EL QORAYCHI + `@marouaneelqoraychi`)
+  - Student 3: Marouane EL QORAYCHI `@marouaneelqoraychi`
 
 ## Getting Started
 
